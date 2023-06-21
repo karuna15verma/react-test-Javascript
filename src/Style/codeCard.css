@@ -1,0 +1,26 @@
+.details-card {
+        border: 1px solid black;
+        margin: 5%;
+        padding: 20px;
+        width: 85%;
+        height: 25vh;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column
+}
+
+.detail-input-text {
+        height: 25px;
+        width: 200px; 
+}
+
+.detail-button-div {
+        display: flex;
+        justify-content: end
+}
+
+.detail-button {
+        height: 30px;
+        width: 150px;
+        background-color: #2e8b98
+}
